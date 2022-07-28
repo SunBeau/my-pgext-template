@@ -1,0 +1,5 @@
+# my-pgext-template extension
+comment = 'My PostgreSQL Extension Template'
+default_version = '1.0'
+module_pathname = '$libdir/my-pgext-template'
+relocatable = true
