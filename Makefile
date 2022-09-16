@@ -1,7 +1,7 @@
 # contrib/my_pgext_template/Makefile
 
 MODULE_big = my_pgext_template
-OBJS = $(WIN32RES) my_pgext_template.o
+OBJS = $(WIN32RES) main.o my_pgext_template.o
 
 PGFILEDESC = "my_pgext_template - My PostgreSQL Extension Template"
 
