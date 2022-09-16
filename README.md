@@ -1,2 +1,2 @@
-# my-pgext-template
+# my_pgext_template
 My PostgreSQL Extension Template

@@ -1,13 +1,13 @@
 /*-------------------------------------------------------------------------
  *
- * my-pgext-template.c
+ * my_pgext_template.c
  *    My PostgreSQL Extension Template
  *
  * Author:  SunBeau
  * Portions Copyright (c) 1996-2022, PostgreSQL Global Development Group
  *
  * IDENTIFICATION
- *    contrib/my-pgext-template/my-pgext-template.c
+ *    contrib/my_pgext_template/my_pgext_template.c
  *
  *-------------------------------------------------------------------------
  */
